@@ -6,6 +6,8 @@ Siteyi tasarlarken örnek aldığım siteler: [Site örneği-1](https://dribbble
 
 Siteyi tasarlarken kullandığım renk paleti [Renk Paleti](https://colorhunt.co/palette/2525256930c364dfdf80ffdb)
 
+Responsive Design yapmadım, henüz.
+
 -bb0143sbw
 ᓚᘏᗢ
 🜃
